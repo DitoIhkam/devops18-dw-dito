@@ -41,3 +41,10 @@ Deployment Agile akan mendapatkan feedback langsung melalui pengguna aplikasi/fi
 
 ## 2.7 Continuous Operations
 Disini, setelah kita menjalankan berbagai lifecycle DevOps, Continuous Operations merupakan step terakhir untuk merawat aplikasi/fitur kedepannya, melalui proses otomatis, deteksi masalah dan pembuatan versi aplikasi/fitur yang lebih baik sehingga dapat mengeliminasi hal-hal yang dapat memperlambat development. Dari step-step yang sudah kita lakukan, ini akan menambah efisiensi development dan memperkuat fitur produk sehingga kita bisa menarik pelanggan lebih banyak lagi.
+
+
+# 3. Installasi Ubuntu Server menggunakan VMware Workstation
+
+Installasi ubuntu server menggunakan vmware saya buat melalui video, bisa dilihat link dibawah ini :
+
+https://bit.ly/TaskWeek1_IhkamAudito_DumbWays
